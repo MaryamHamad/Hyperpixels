@@ -16,7 +16,12 @@ Published in IEEE Transactions on Image Processing:
 ## The generated 4D light field dataset can be found in our group website:
 [Link to our IT-4DLF dataset](http://www.img.lx.it.pt/IT-4DLF/)<br>
 <br>
+##### If you use this dataset in your work, please cite our paper:<br>
+M. Hamad, C. Conti, P. Nunes and L. D. Soares, "Hyperpixels: Flexible 4D Over-segmentation for Dense and Sparse Light Fields," in IEEE Transactions on Image Processing, doi: 10.1109/TIP.2023.3290523.
+<br>
+## The dynamic results videos can be found in  this repository: 
+[Link to the dynamic results](https://github.com/MaryamHamad/Hyperpixels/tree/main/Dynamic%20results)<br>
 
-## The dynamic results videos can be found in  this repository.
+<br>
 
 
